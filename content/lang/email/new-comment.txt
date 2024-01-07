@@ -1,0 +1,24 @@
+NOUVEAU COMMENTAIRE DE RECETTE:
+-----------------------------------------------------------------
+
+Un nouveau commentaire a été posté par {NAME} le {DATE} pour la recette suivante :
+-------------------------------------------------------------------------------------------
+
+{TITLE}
+par {CHEF}
+
+-------------------------------------------------------------------------------------------
+Commentaire posté comme suit:
+-------------------------------------------------------------------------------------------
+
+"{COMMENTS}"
+
+-------------------------------------------------------------------------------------------
+
+Si vous avez réglé les commentaires pour approbation pour cette recette, connectez-vous à votre espace administrateur pour
+modifier, approuver ou rejeter ce commentaire :
+
+{WEBSITE_URL}admin/
+
+---------------------------------
+IP visiteur: {IP}

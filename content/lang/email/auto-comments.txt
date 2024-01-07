@@ -1,0 +1,14 @@
+Bonjour {NAME},
+
+Merci beaucoup pour votre commentaire sur la recette suivante :
+
+{TITLE}
+par {CHEF}
+
+N'hésitez pas à commenter nos autres recettes si vous avez le temps.
+
+Cordialement,
+
+-------------------------------------------
+{WEBSITE_NAME}
+{WEBSITE_URL}

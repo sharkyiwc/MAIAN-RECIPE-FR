@@ -1,0 +1,16 @@
+Bonjour {NAME},
+
+Merci d'avoir commenté la recette suivante :
+
+{TITLE}
+par {CHEF}
+
+Vos commentaires seront examinés prochainement.
+
+Si vous avez fourni une adresse e-mail valide, une notification vous sera envoyée pour confirmer votre soumission.
+
+Cordialement,
+
+-------------------------------------------
+{WEBSITE_NAME}
+{WEBSITE_URL}

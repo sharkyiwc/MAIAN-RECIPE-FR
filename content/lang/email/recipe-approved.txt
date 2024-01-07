@@ -1,0 +1,21 @@
+{WEBSITE_NAME}
+-----------------------------------------------------------------
+
+Bonjour {NAME},
+
+Merci d'avoir soumis une recette pour inclusion sur notre site web.
+
+Votre recette a maintenant été approuvée
+
+-----------------------------------------------------------------
+{TITLE}
+{URL}
+-----------------------------------------------------------------
+
+Merci pour votre soumission. N'hésitez pas à soumettre d'autres recettes si vous en avez la possibilité.
+
+Cordialement,
+
+---------------------------------------
+{WEBSITE_NAME}
+{WEBSITE_URL}

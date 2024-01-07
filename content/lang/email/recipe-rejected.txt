@@ -1,0 +1,22 @@
+{WEBSITE_NAME}
+-----------------------------------------------------------------
+
+Bonjour {NAME},
+
+
+Merci d'avoir soumis une recette pour inclusion sur notre site web.
+
+Malheureusement, la suggestion de recette suivante a été jugée inappropriée pour notre site web en ce moment.
+
+-----------------------------------------------------------------
+{TITLE}
+-----------------------------------------------------------------
+
+Cela relève de la décision du webmaster et sa décision est définitive.
+
+
+Cordialement,
+
+---------------------------------------
+{WEBSITE_NAME}
+{WEBSITE_URL}

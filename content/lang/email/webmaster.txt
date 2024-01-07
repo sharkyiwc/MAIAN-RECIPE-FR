@@ -1,0 +1,12 @@
+WEB ENQUIRY:
+-----------------------------------------------------------------
+
+La demande suivante a été soumise par {NAME} le {DATE} :
+------------------------------------------------------------------------------------
+
+{COMMENTS}
+
+Utilisez l'option de réponse de votre programme de messagerie pour répondre à ce message.
+
+---------------------------------
+Adresse(s) IP du visiteur enregistrée(s) comme : {IP}

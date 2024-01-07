@@ -1,0 +1,25 @@
+{WEBSITE_NAME}
+-----------------------------------------------------------------
+
+Bonjour {NAME},
+
+Merci d'avoir commenté une de nos recettes.
+
+Votre commentaire a maintenant été approuvé et est visible sur notre site web.
+
+-----------------------------------------------------------------
+{TITLE}
+{URL}
+-----------------------------------------------------------------
+Commentaires approuvés :
+
+"{COMMENT}"
+-----------------------------------------------------------------
+
+Veuillez noter que votre commentaire a pu être modéré avant d'être approuvé sur notre site web. Cela relève de la décision du webmaster et sa décision est définitive.
+
+Cordialement,
+
+---------------------------------------
+{WEBSITE_NAME}
+{WEBSITE_URL}

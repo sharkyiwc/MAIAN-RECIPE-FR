@@ -1,0 +1,23 @@
+{WEBSITE_NAME}
+-----------------------------------------------------------------
+
+Bonjour {NAME},
+
+Merci d'avoir commenté une de nos recettes. Malheureusement, votre commentaire a été jugé inapproprié pour notre site web en ce moment.
+
+-----------------------------------------------------------------
+{TITLE}
+{URL}
+-----------------------------------------------------------------
+Commentaires rejetés:
+
+"{COMMENT}"
+-----------------------------------------------------------------
+
+Cela relève de la décision du webmaster et sa décision est définitive.
+
+Cordialement,
+
+---------------------------------------
+{WEBSITE_NAME}
+{WEBSITE_URL}

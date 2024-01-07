@@ -1,0 +1,11 @@
+Bonjour {NAME},
+
+Cet email confirme votre récente demande à {WEBSITE_NAME} le {DATE}.
+
+Votre demande est importante pour nous et votre email sera répondu dès que possible.
+
+Cordialement,
+
+-------------------------------------------
+{WEBSITE_NAME}
+{WEBSITE_URL}

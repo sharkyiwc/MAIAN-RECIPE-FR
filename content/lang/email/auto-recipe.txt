@@ -1,0 +1,38 @@
+Bonjour {NAME},
+
+Merci d'avoir soumis une recette sur "{WEBSITE_NAME}".
+
+Vous avez soumis les informations suivantes :
+
+-------------------------------------------------------------------------------------------
+Détails:
+-------------------------------------------------------------------------------------------
+
+Nom de la recette : {RECIPE}
+Email : {EMAIL}
+Catégories : {CATS}
+Images téléchargées : {IMG_COUNT}
+
+-------------------------------------------------------------------------------------------
+Ingrédients:
+-------------------------------------------------------------------------------------------
+
+{INGREDIENTS}
+
+-------------------------------------------------------------------------------------------
+Instructions:
+-------------------------------------------------------------------------------------------
+
+{INSTRUCTIONS}
+
+-------------------------------------------------------------------------------------------
+
+Nous apprécions votre attention à vouloir partager votre recette.
+
+N'hésitez pas à soumettre d'autres recettes si vous en avez l'occasion.
+
+Cordialement,
+
+-------------------------------------------
+{WEBSITE_NAME}
+{WEBSITE_URL}
