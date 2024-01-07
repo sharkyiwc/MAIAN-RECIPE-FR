@@ -1,0 +1,6 @@
+1. replace the contents of the 'content' folder from the zip into /content of the installation
+2. Login to your admin and then go to SETTINGS, select File Language in the choice french.php
+    => Update Settings
+5.Restart your browser and do a refresh
+
+Good luck
