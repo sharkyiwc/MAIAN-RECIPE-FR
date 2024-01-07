@@ -5,6 +5,8 @@ Script: Maian Recipe
 Version: 3.2
 Language: french
 
+https://www.maianrecipe.com/
+
 ---------------
 HOW TO INSTALL:
 ---------------
